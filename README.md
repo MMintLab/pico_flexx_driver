@@ -71,7 +71,7 @@ The driver has been tested on:
    sudo usermod -a -G plugdev <your-user-name-here>
    ```
 
-   Afterwards, you have to log out and log back in for the changes to take effect.
+   Afterwards, you have to restart the computer for the changes to take effect.
 
 7. Run `catkin_make` or `catkin build` (if you prefer catkin_tools)
 8. Plug in the CamBoard pico flexx device
